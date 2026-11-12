@@ -7,7 +7,6 @@ const STORAGE_KEYS = {
 const defaultMenu = [
   { id: "m1", name: "Paneer Tikka", category: "Starters", price: 220, icon: "🍢", enabled: true },
   { id: "m2", name: "Crispy Corn", category: "Starters", price: 180, icon: "🌽", enabled: true },
-  { id: "m3", name: "Butter Chicken", category: "Main Course", price: 340, icon: "🍛", enabled: true },
   { id: "m4", name: "Veg Biryani", category: "Main Course", price: 260, icon: "🍚", enabled: true },
   { id: "m5", name: "Classic Burger", category: "Fast Food", price: 190, icon: "🍔", enabled: true },
   { id: "m6", name: "Margherita Pizza", category: "Fast Food", price: 280, icon: "🍕", enabled: true },
